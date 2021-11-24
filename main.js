@@ -23,7 +23,7 @@ https://ipfs.moralis.io:2053/ipfs/QmQYgKwQwZyQR7UMgwottR1q9pQib1TGSs5u1KAiFBAyEs
 https://ipfs.moralis.io:2053/ipfs/QmbmGHfUsecgffaKTRAX2H7qjTbsza7AdriQgZX4D4R6ZC
 https://ipfs.moralis.io:2053/ipfs/QmSq72g6UZ2DQvwb2yFqofhs6Kfp5uko1DM3JozXh8UWg8
 https://ipfs.moralis.io:2053/ipfs/QmUSrNpss6CMekQWqUgBKRyZbZ1UBMa9jqktLLu2bTYre7
-
+["https://ipfs.moralis.io:2053/ipfs/QmdaKvLxSKmAff1jZnpJ3tSkc9Q4GseSb3EAo6QtTwq3Tg", "https://ipfs.moralis.io:2053/ipfs/QmdJmzWp2mg4gR44kwTvfFTHsz9a6h5AifV3LsYJKcsDqP", "https://ipfs.moralis.io:2053/ipfs/QmQYgKwQwZyQR7UMgwottR1q9pQib1TGSs5u1KAiFBAyEs", "https://ipfs.moralis.io:2053/ipfs/QmbmGHfUsecgffaKTRAX2H7qjTbsza7AdriQgZX4D4R6ZC", "https://ipfs.moralis.io:2053/ipfs/QmSq72g6UZ2DQvwb2yFqofhs6Kfp5uko1DM3JozXh8UWg8", "https://ipfs.moralis.io:2053/ipfs/QmUSrNpss6CMekQWqUgBKRyZbZ1UBMa9jqktLLu2bTYre7"]
 */
 
 var user = Moralis.User.current();
