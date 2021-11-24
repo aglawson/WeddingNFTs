@@ -3,7 +3,7 @@ Moralis.serverURL = 'https://ngyp8xpeq61g.usemoralis.com:2053/server';
 ;
 
 var web3 = new Web3(web3.currentProvider);
-const contractAddress = '0x2975843089eE31ebAB8f2A02039C313C54159004';
+const contractAddress = '0x78E470243c06F5BA00B37D068e10669D4a684D44';
 $(document).ready(function () {
     window.ethereum.enable().then(function(accounts) {
         contractInstance = new web3.eth.Contract(abi, contractAddress, {from: accounts[0]});
